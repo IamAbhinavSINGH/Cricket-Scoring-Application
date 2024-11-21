@@ -1,6 +1,6 @@
 # Cricket Scoring Application
 
-<img src="/screenshots/ss.jpg" alt="Screenshot 1" width="300"/> <img src="/screenshots/ss2.png" alt="Screenshot 2" width="300"/>
+<img src="/screenshot/ss.jpg" alt="Screenshot 1" width="300"/> <img src="/screenshot/ss2.png" alt="Screenshot 2" width="300"/>
 
 This Cricket Scoring Application is a full-stack web application designed to manage and display cricket match scores in real-time. It features a Next.js frontend with a user-friendly admin panel and a live scoreboard, backed by an Express.js server with MongoDB for data persistence.
 
